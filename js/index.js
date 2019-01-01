@@ -3,3 +3,4 @@
 var element = document.createElement('div');
 element.innerHTML =  'HELLO World'
 document.body.appendChild(element);
+element.style.textAlign = 'center';
